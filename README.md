@@ -7,4 +7,4 @@ I'm a software engineer based in Palo Alto, California 🇺🇸 developing iOS a
 - ⚡ Fun fact: I play videogames 🎮
 
 
-![Zubair's stats](https://github-readme-stats.vercel.app/api?username=zubair&hide=prs,issues,contribs&theme=radical&show_icons=true&count_private=true)
+![Zubair's Github stats](https://github-readme-stats.vercel.app/api?username=zubair&hide=prs,issues,contribs&theme=radical&show_icons=true&count_private=true)
